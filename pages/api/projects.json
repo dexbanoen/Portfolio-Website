@@ -6,7 +6,7 @@
     "description": "A portfolio website based on the VSCode theme.",
     "tags": ["next", "css-modules"],
     "source_code": "https://github.com/dexbanoen/portfolio",
-    "demo": "https://dexbanoenportfolio-dex-banoens-projects.vercel.app/"
+    "demo": "https://dexbanoen.vercel.app/projects"
   },
   {
     "id": 2,

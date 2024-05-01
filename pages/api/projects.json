@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "Website Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "image": "/coding.gif",
     "description": "A portfolio website based on the VSCode theme.",
     "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/dexbanoen",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "source_code": "https://github.com/dexbanoen/portfolio",
+    "demo": "https://dexbanoenportfolio-dex-banoens-projects.vercel.app/"
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@
     "image": "/hack.gif",
     "description": "Currently under development.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "demo": "https://google.com/"
   },
   {
     "id": 3,
@@ -23,7 +23,7 @@
     "description": "Currently under development.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "source_code": "https://github.com/dexbanoen",
-    "demo": "https://healthyways.herokuapp.com/"
+    "demo": "https://google.com/"
   },
   {
     "id": 4,
@@ -32,6 +32,6 @@
     "description": "Currently under development.",
     "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
     "source_code": "https://github.com/dexbanoen",
-    "demo": "https://driwwwle.com/"
+    "demo": "https://google.com/"
   }
 ]

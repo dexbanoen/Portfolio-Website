@@ -4,12 +4,12 @@ const contactItems = [
   {
     social: "website",
     link: "dexbanoen.me",
-    href: "https://dexbanoen.me",
+    href: "https://dexbanoenportfolio-4az8n1c97-dex-banoens-projects.vercel.app",
   },
   {
     social: "email",
     link: "dexbanoen@gmail.com",
-    href: "mailto:nitinranganath@gmail.com",
+    href: "mailto:dexbanoen@gmail.com",
   },
   {
     social: "linkedin",

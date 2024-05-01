@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Website Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A portfolio website based on the VSCode theme.",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/dexbanoen",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "Blank 1",
+    "image": "/hack.gif",
+    "description": "Currently under development.",
+    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "demo": "https://www.pcbcupid.com/"
+  },
+  {
+    "id": 3,
+    "name": "Blank 2",
+    "image": "/hack.gif",
+    "description": "Currently under development.",
+    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "source_code": "https://github.com/dexbanoen",
+    "demo": "https://healthyways.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "Blank 3",
+    "image": "/hack.gif",
+    "description": "Currently under development.",
+    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
+    "source_code": "https://github.com/dexbanoen",
+    "demo": "https://driwwwle.com/"
+  }
+]

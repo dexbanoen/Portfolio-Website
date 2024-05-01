@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: "website",
     link: "dexbanoen.vercel.app",
-    href: "dexbanoen.vercel.app",
+    href: "",
   },
   {
     social: "email",

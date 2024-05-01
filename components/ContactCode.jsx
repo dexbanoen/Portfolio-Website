@@ -3,7 +3,7 @@ import styles from "../styles/ContactCode.module.css";
 const contactItems = [
   {
     social: "webite",
-    href: "dexbanoen.vercel.app",
+    link: "",
   },
   {
     social: "email",

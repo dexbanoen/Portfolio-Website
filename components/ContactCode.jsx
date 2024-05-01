@@ -2,11 +2,6 @@ import styles from "../styles/ContactCode.module.css";
 
 const contactItems = [
   {
-    social: "website",
-    link: "dexbanoen.vercel.app",
-    href: "dexbanoen.vercel.app",
-  },
-  {
     social: "email",
     link: "dexbanoen@gmail.com",
     href: "mailto:dexbanoen@gmail.com",

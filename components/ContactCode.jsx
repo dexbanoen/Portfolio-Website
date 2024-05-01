@@ -3,8 +3,8 @@ import styles from "../styles/ContactCode.module.css";
 const contactItems = [
   {
     social: "website",
-    link: "dexbanoen.me",
-    href: "https://dexbanoenportfolio-4az8n1c97-dex-banoens-projects.vercel.app",
+    link: "dexbanoen.vercel.app",
+    href: "dexbanoen.vercel.app",
   },
   {
     social: "email",

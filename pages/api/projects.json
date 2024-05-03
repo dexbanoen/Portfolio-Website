@@ -27,9 +27,9 @@
   },
   {
     "id": 4,
-    "name": "DNA Translation/ Transcription",
+    "name": "DNA Toolkit",
     "image": "/dna.gif",
-    "description": "Python script takes input sequences of amino acids, transcribes them into RNA sequences, and then translates them into corresponding protein sequences. It utilizes simple data structures for efficient sequence manipulation and translation.",
+    "description": "Python script given an input sequences of amino acids, transcribes them into RNA sequences, and then translates them into corresponding protein sequences. It utilizes simple data structures for efficient sequence manipulation and translation.",
     "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
     "source_code": "https://github.com/dexbanoen",
     "demo": "https://google.com/"

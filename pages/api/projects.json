@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "name": "Blank 1",
-    "image": "/hack.gif",
+    "name": "Honeypot",
+    "image": "/honeypot.gif",
     "description": "Currently under development.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "demo": "https://google.com/"

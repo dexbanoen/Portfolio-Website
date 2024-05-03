@@ -27,8 +27,8 @@
   },
   {
     "id": 4,
-    "name": "Blank 3",
-    "image": "/hack.gif",
+    "name": "DNA Translation/ Transcription",
+    "image": "/dna.gif",
     "description": "Currently under development.",
     "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
     "source_code": "https://github.com/dexbanoen",

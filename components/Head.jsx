@@ -1,9 +1,11 @@
 import Head from "next/head";
 
 const CustomHead = ({ title }) => {
-  return <Head>
+  return 
+    (
+      <Head>
   <title>{title}</title>
-  </Head>;
+  </Head>);
 };
 
 export default CustomHead;

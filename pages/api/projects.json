@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Honeypot",
     "image": "/honeypot.gif",
-    "description": "Currently under development.",
+    "description": "deploy a cybersecurity honeypot, a decoy system designed to lure and deceive attackers, in order to gather intelligence on their tactics, techniques, and procedures (TTPs).",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "demo": "https://google.com/"
   },

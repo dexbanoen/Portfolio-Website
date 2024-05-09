@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Website Portfolio",
+    "name": "blank",
     "image": "/coding.gif",
     "description": "A portfolio website based on the VSCode theme.",
     "tags": ["next", "css-modules"],
@@ -10,28 +10,10 @@
   },
   {
     "id": 2,
-    "name": "Honeypot",
+    "name": "blank",
     "image": "/honeypot.gif",
     "description": "Deployed a cybersecurity honeypot, a decoy system designed to lure and deceive attackers, in order to gather intelligence on their tactics, techniques, and procedures (TTPs).",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://google.com/"
-  },
-  {
-    "id": 3,
-    "name": "Blank 2",
-    "image": "/hack.gif",
-    "description": "Currently under development.",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/dexbanoen",
-    "demo": "https://google.com/"
-  },
-  {
-    "id": 4,
-    "name": "DNA Toolkit",
-    "image": "/dna.gif",
-    "description": "Python script given an input sequences of amino acids, transcribes them into RNA sequences, and then translates them into corresponding protein sequences. It utilizes simple data structures for efficient sequence manipulation and translation.",
-    "tags": ["next", "node", "mongodb", "python", "react-query"],
-    "source_code": "https://github.com/dexbanoen",
     "demo": "https://google.com/"
   }
 ]
